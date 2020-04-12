@@ -74,6 +74,8 @@
 
                         @if (Route::has('register'))
                             <a href="{{ route('register') }}">Register</a>
+
+                            asdasd
                         @endif
                     @endauth
                 </div>
